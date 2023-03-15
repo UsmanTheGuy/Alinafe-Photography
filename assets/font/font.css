@@ -3,15 +3,12 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * copyright 2023 Visionary Technologies Enterprise
  */
-
-
 
 /**
  * RECOLETA FONT
  */
-
 @font-face {
   font-family: 'Recoleta';
   src: local('Recoleta Light'), local('Recoleta-Light'),
@@ -35,7 +32,6 @@
 /**
  * GORDITA FONT
  */
-
 @font-face {
   font-family: 'Gordita';
   src: local('Gordita Light'), local('Gordita-Light'),
