@@ -2,14 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -935,7 +927,7 @@ body.active { overflow: hidden; }
 .left
 {
   height: 100%;
-  background: url(../images/contact-us.jpg);
+  background: url(../images/Contact_IMG.jpg);
   background-size: cover;
 }
 
